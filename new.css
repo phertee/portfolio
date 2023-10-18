@@ -126,7 +126,7 @@ body{
 .skill-box{
     margin: 10px;
 }
-#skill.skill-row.skill-box.skill-info{
+#skills.skill-row.skill-box.skill-info{
     display: flex;
     align-items: center;
     justify-content: space-between;
